@@ -1,4 +1,4 @@
-# # Soft PWM Library
+# Soft PWM Library
 
 This repository contains a Python library (`soft_pwm`) designed for software-based PWM control using WiringPi.  
 It allows smooth control of RGB LEDs and other PWM-enabled components.
